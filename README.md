@@ -98,5 +98,3 @@ node app.js
 
 This project is licensed under the MIT License.
 ```
-
-This `README.md` now includes detailed instructions for setting up the PostgreSQL database, creating the necessary table, and configuring the application to use the database.
